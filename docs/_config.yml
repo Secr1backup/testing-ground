@@ -1,5 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-spaceship
 title: Testing Ground
 description: Kinda like Bikini Atoll but not Bikini Atoll
