@@ -5,5 +5,5 @@
 | # | desc | Details |
 |---|------|---------|
 |1  | Hey  |OOOOOOOOO|
-|   |      |^^ok man   |
+|^^ |      |ok man   |
 
